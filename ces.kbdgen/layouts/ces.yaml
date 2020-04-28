@@ -1,0 +1,19 @@
+displayNames:
+  cs: čeština
+  en: Czech
+  fi: tšekki
+modes:
+  mobile:
+    default: |
+      q w e r t y u i o p ř 
+      a s d f g h ĕ j k l é
+       z x c v b n m í á š
+    shift: |
+      Q W E R T Y U I O P Ř
+      A S D F G H Ě J K L É
+        Z X C V B N M Í Á Š
+targets:
+  ios:
+    legacyName: ces
+  android:
+    legacyName: ces
