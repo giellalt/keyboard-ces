@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Documentation for the Czech keyboards
 
 ## Layouts
